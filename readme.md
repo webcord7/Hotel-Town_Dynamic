@@ -101,3 +101,7 @@ Custom Colors: #2eclac & #279e8c
   font-weight: 600;
   font-style: normal;
 }
+
+
+<!-- Sliders -->
+Swiperjs.com 
