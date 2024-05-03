@@ -13,7 +13,7 @@
   <!-- css file  -->
   <link rel="stylesheet" href="style.css">
   <style>
-    .h-fogit add nt {
+    .h-font {
       font-family: "Merienda", cursive;
     }
 
