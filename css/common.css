@@ -1,0 +1,19 @@
+.h-font {
+    font-family: "Merienda", cursive;
+  }
+
+  * {
+
+    font-family: 'poppins', sans-serif;
+  }
+
+
+  .custom-bg {
+    background-color: #2ec1ac;
+border-color: #2ec1ac;
+  }
+
+  .custom-bg:hover {
+    background-color: #279e8c;
+    border-color: #279e8c;
+  }
