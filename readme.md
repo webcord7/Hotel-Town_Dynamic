@@ -105,3 +105,11 @@ Custom Colors: #2eclac & #279e8c
 
 <!-- Sliders -->
 Swiperjs.com 
+
+<!-- About us and Facilities page -->
+
+Front End - About us and Facilities page
+Font Family: Merienda (weight: 400 & 700), Poppins (weight: 400, 500 & 600)
+SwiperJS for Carousels
+Custom Colors: #2eclac & #279e8c
+

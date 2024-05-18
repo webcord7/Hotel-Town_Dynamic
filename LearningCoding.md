@@ -8,4 +8,7 @@ Swiperjs.com
 <!-- z-index work with ? -->
 relative postion
 
+<!-- w-100 mean ? -->
+take complete space given by us ,,, like coloumn col-4 ... 
+
 
