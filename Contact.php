@@ -72,20 +72,54 @@
           <iframe class="w-100 rounded mb-4" height="320px"
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d217698.64919803524!2d74.3343893!3d31.509287213823633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39190483e58107d9%3A0xc23abe6ccc7e2462!2sLahore%2C%20Punjab!5e0!3m2!1sen!2s!4v1715250566761!5m2!1sen!2s"
             loading="lazy"></iframe>
-            <h5>d</h5>
-            <a href="https://maps.app.goo.gl/xEDeoTafb2isst28A " target="_blank" ><i class="bi bi-geo-alt-fill"></i>MY hotel</a>
-          </div>
+          <h5>Address</h5>
+          <a href="https://maps.app.goo.gl/xEDeoTafb2isst28A " target="_blank" class="d-inline-block text-decoration-none text-dark mb-2"><i class="bi bi-geo-alt-fill"></i>
+            Pearl Continental Hotel,Lahore</a>
+              <h5 class="mt-4">Call us:</h5>
+              <a href="tel: +92325822834" class="d-inline-block text-dark mb-2 text-decoration-none "><i
+                  class="bi bi-telephone-fill "></i> 03258228602</a>
+              <br>
+              <a href="tel: +92325822834" class="d-inline-block text-dark mb-2 text-decoration-none"><i
+                class="bi bi-telephone-fill"></i> 03258228602</a>
+                <h5 class="mt-4">
+                  Email
+                </h5>
+                <a href="mailto: abdulrehmanwebz@gmail.com" target="_blank" class="d-inline-block text-decoration-none text-dark mb-2">abdulrehmanwebz@gmail.com</a>
+                <h5 class="mt-4">Follow us:</h4>
+                <a href="#" class="d-inline-block text-dark fs-5 me-2">
+                    <i class="bi bi-twitter-x me-1"></i>
+                </a>
+                <a href="#" class="d-inline-block text-dark fs-5 me-2">
+                  <i class="bi bi-facebook me-1"></i>
+              </a>
+              <a href="#" class="d-inline-block text-dark fs-5">
+                <i class="bi bi-instagram me-1 "></i>
+            </a>
+              </div>
       </div>
       <div class="col-lg-6 col-md-6 mb-5 px-4">
         <div class="p-4 bg-white shadow rounded">
-          <div class="d-flex align-items-center mb-2">
-            <img src="images/facilities/IMG_43553.svg" width="40px" alt="">
-            <h5 class="m-0 ms-3">Wifi</h5>
-          </div>
-          <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            Soluta non qui dolor hic, doloribus suscipit praesentium?
-          </p>
+          <form>
+            <h5>Send a Message</h5>
+            <div class="mt-3">
+              <label class="form-label" style="font-weight: 500;">Name</label>
+              <input type="text" class="form-control shadow-none">
+            </div>
+            <div class="mt-3">
+              <label class="form-label" style="font-weight: 500;">Email</label>
+              <input type="text" class="form-control shadow-none">
+            </div>
+            <div class="mt-3">
+              <label class="form-label" style="font-weight: 500;">Subject</label>
+              <input type="text" class="form-control shadow-none">
+            </div>
+            <div class="mt-3">
+              <label class="form-label" style="font-weight: 500;">Message</label>
+              <textarea class="form-control shadow-none "rows="1" style="resize: none;"></textarea>
+            </div>
+            <button type="submit" class="btn text-white shadow-none custom-bg mt-3">Send</button>
+
+          </form>
         </div>
       </div>
     </div>
